@@ -1,6 +1,7 @@
 Doubletake Case Study
 
 My Role: Art direction, user-centered design, illustration, code authoring.
+
 Tools: Photoshop, Illustrator, InDesign, TextWrangler
 
 Client
